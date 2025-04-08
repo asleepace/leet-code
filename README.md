@@ -5,4 +5,10 @@ NOTE: Some of these problems are optimized for speed and aren't really indicativ
 
 ## Table Of Contents
 
+### Easy
+
 - [longestCommonPrefix](./longestCommonPrefix.ts)
+
+### Medium
+
+- [countIslands](./countIslands.ts)
